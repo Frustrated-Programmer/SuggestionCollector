@@ -1,6 +1,6 @@
 # Suggestion Collection
 This bot is a bot that sorts through all the suggestion in a given channel and turns it into a fancy HTML page. Made specifically for the GTFO discord.
-<br><img src="./Screenie.png" width="800">
+<br><span>*So it turns these discord messages into this fancy HTML page.*</span><br><span><img src="./DiscordScreenie.png" height="400"><img src="./Screenie.png" height="400"></span>
 
 # Set up
 1. Invite your bot that will run the code to the server. *Make sure the bot has the following perms*
