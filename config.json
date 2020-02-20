@@ -1,0 +1,13 @@
+{
+  "token": "<insert bot's token>",
+  "debug": false,
+  "channel": "679433940615823385",
+  "upVoteEmoji": "<insert emoji's id here>",
+  "downVoteEmoji": "<insert emoji's id here>",
+  "tieGracePercent": 20,
+  "validSuggestion": "",
+  "maxSuggestionsPerPage": 50,
+  "ownerIDs": ["244590122811523082"],
+  "stopCmd": ">stop",
+  "updateHours": 1
+}

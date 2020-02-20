@@ -1,0 +1,9 @@
+{
+  "mostVotes": false,
+  "leastVotes": "leastVotes.html",
+  "mostPositiveVotes": "mostPositiveVotes.html",
+  "mostNegativeVotes": "mostNegativeVotes.html",
+  "mostLiked": "mostLiked.html",
+  "mostDisliked": "mostDisliked.html",
+  "mostVotedTies": false
+}

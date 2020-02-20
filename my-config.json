@@ -1,0 +1,13 @@
+{
+  "token": "Njc5NDI1MTgzNTA0NjYyNTI4.XkxPEQ.RsTCWOZNgEcXHQtGS_DXQoWpbZg",
+  "debug": true,
+  "channel": "679433940615823385",
+  "upVoteEmoji": "679448228118265868",
+  "downVoteEmoji": "679448187118944278",
+  "tieGracePercent": 20,
+  "validSuggestion": "679425183504662528",
+  "maxSuggestionsPerPage": 50,
+  "ownerIDs": ["244590122811523082"],
+  "stopCmd": ">stop",
+  "updateHours": 1
+}
